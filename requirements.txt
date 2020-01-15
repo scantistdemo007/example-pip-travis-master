@@ -21,7 +21,7 @@ et-xmlfile==1.0.1
 execnet==1.4.1
 eyes-selenium==3.11.1
 Faker==0.7.17
-Flask==0.12.2
+Flask==1.0
 funcsigs==1.0.2
 future==0.16.0
 get==0.0.38
