@@ -76,7 +76,7 @@ pytz==2017.2
 PyYAML==3.12
 query-string==0.0.28
 redis==2.10.5
-requests==2.18.1
+requests==2.20.0
 requests-oauthlib==0.8.0
 Robot-AppEyes==1.2
 robotframework==3.0.4
